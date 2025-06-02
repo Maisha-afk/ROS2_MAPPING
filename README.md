@@ -1,4 +1,14 @@
-# ROS2_MAPPING
-Problem: map isnt fixing and can't save map 
+# Project Name:
+Mapping using Cartographer
+## Requirements
+ROS2 (jazzy)
 
-ros2 launch cartographer_slam cartographer.launch.py
+Ubuntu 24.04
+
+Rosbot Workspace
+
+## Table of Contents
+- [Cartographer]
+- [Localization Server]
+- [Map Server]
+ 
